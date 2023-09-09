@@ -1,0 +1,13 @@
+C:\DONOTSYNC\Github\mlwiles\pagetopng\bin\Debug\PageToPNG.dll
+C:\DONOTSYNC\Github\mlwiles\pagetopng\bin\Debug\PageToPNG.pdb
+C:\DONOTSYNC\Github\mlwiles\pagetopng\bin\Debug\PageToPNG.dll.manifest
+C:\DONOTSYNC\Github\mlwiles\pagetopng\bin\Debug\PageToPNG.vsto
+C:\DONOTSYNC\Github\mlwiles\pagetopng\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\DONOTSYNC\Github\mlwiles\pagetopng\obj\Debug\PageToPNG.csproj.AssemblyReference.cache
+C:\DONOTSYNC\Github\mlwiles\pagetopng\obj\Debug\PageToPNG.Properties.Resources.resources
+C:\DONOTSYNC\Github\mlwiles\pagetopng\obj\Debug\PageToPNG.Ribbon1.resources
+C:\DONOTSYNC\Github\mlwiles\pagetopng\obj\Debug\PageToPNG.csproj.GenerateResource.cache
+C:\DONOTSYNC\Github\mlwiles\pagetopng\obj\Debug\PageToPNG.csproj.CoreCompileInputs.cache
+C:\DONOTSYNC\Github\mlwiles\pagetopng\obj\Debug\PageToPNG.csproj.CopyComplete
+C:\DONOTSYNC\Github\mlwiles\pagetopng\obj\Debug\PageToPNG.dll
+C:\DONOTSYNC\Github\mlwiles\pagetopng\obj\Debug\PageToPNG.pdb

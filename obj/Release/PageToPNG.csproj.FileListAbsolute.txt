@@ -1,0 +1,13 @@
+C:\DONOTSYNC\Github\mlwiles\pagetopng\bin\Release\PageToPNG.dll
+C:\DONOTSYNC\Github\mlwiles\pagetopng\bin\Release\PageToPNG.pdb
+C:\DONOTSYNC\Github\mlwiles\pagetopng\bin\Release\PageToPNG.dll.manifest
+C:\DONOTSYNC\Github\mlwiles\pagetopng\bin\Release\PageToPNG.vsto
+C:\DONOTSYNC\Github\mlwiles\pagetopng\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\DONOTSYNC\Github\mlwiles\pagetopng\obj\Release\PageToPNG.csproj.AssemblyReference.cache
+C:\DONOTSYNC\Github\mlwiles\pagetopng\obj\Release\PageToPNG.Properties.Resources.resources
+C:\DONOTSYNC\Github\mlwiles\pagetopng\obj\Release\PageToPNG.Ribbon1.resources
+C:\DONOTSYNC\Github\mlwiles\pagetopng\obj\Release\PageToPNG.csproj.GenerateResource.cache
+C:\DONOTSYNC\Github\mlwiles\pagetopng\obj\Release\PageToPNG.csproj.CoreCompileInputs.cache
+C:\DONOTSYNC\Github\mlwiles\pagetopng\obj\Release\PageToPNG.csproj.CopyComplete
+C:\DONOTSYNC\Github\mlwiles\pagetopng\obj\Release\PageToPNG.dll
+C:\DONOTSYNC\Github\mlwiles\pagetopng\obj\Release\PageToPNG.pdb
